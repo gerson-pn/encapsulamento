@@ -7,4 +7,8 @@ public class Empresa {
 		this.cnpj = cnpj;
 	}
 	
+	public String getCnpj() {
+		return this.cnpj;
+	}
+	
 }
